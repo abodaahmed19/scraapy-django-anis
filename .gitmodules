@@ -1,0 +1,6 @@
+[submodule "external/projectmeta"]
+	path = external/projectmeta
+	url = https://gitlab.hq.uzdsolutions.com/uzdsolutions/projectmeta.git
+[submodule "external/pythonlibrary"]
+	path = external/pythonlibrary
+	url = ssh://git@gitlab.hq.uzdsolutions.com:2222/uzdsolutions/pythonlibrary.git

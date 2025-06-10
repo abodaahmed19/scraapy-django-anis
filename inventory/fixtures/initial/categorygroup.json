@@ -1,0 +1,282 @@
+[
+  {
+    "model": "inventory.categorygroup",
+    "pk": 1,
+    "fields": {
+      "name": "Aluminum",
+      "name_ar": "الألمنيوم",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/aluminum.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 2,
+    "fields": {
+      "name": "Appliances",
+      "name_ar": "الأجهزة المنزلية",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/appliances.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 3,
+    "fields": {
+      "name": "Brass",
+      "name_ar": "النحاس الأصفر",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/brass.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 4,
+    "fields": {
+      "name": "Computers & Electronics",
+      "name_ar": "الحواسيب والإلكترونيات",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/computers.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 5,
+    "fields": {
+      "name": "E-Accessories",
+      "name_ar": "الإكسسوارات الإلكترونية",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/eaccessories.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 6,
+    "fields": {
+      "name": "Plastic",
+      "name_ar": "البلاستيك",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/plastic.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 7,
+    "fields": {
+      "name": "Copper Wires & Cables",
+      "name_ar": "الأسلاك والكابلات النحاسية",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/copper.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 8,
+    "fields": {
+      "name": "Vehicles",
+      "name_ar": "المركبات",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/vehicles.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 9,
+    "fields": {
+      "name": "Paper",
+      "name_ar": "الورق",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/paper.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 10,
+    "fields": {
+      "name": "Iron & Steel",
+      "name_ar": "الحديد والصلب",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/iron.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 11,
+    "fields": {
+      "name": "Wood",
+      "name_ar": "الخشب",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/wood.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 12,
+    "fields": {
+      "name": "Glass",
+      "name_ar": "الزجاج",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/glass.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 13,
+    "fields": {
+      "name": "Vehicles",
+      "name_ar": "المركبات",
+      "group_type": "rental",
+      "icon": "/categorygroup_icons/defaults/vehicles.svg"
+    }
+  },
+    {
+    "model": "inventory.categorygroup",
+    "pk": 14,
+    "fields": {
+      "name": "Bulldozer",
+      "name_ar": "جرافة",
+      "group_type": "rental",
+      "icon": "/categorygroup_icons/defaults/bulldozer.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 15,
+    "fields": {
+      "name": "Container",
+      "name_ar": "حاوية",
+      "group_type": "rental",
+      "icon": "/categorygroup_icons/defaults/container.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 16,
+    "fields": {
+      "name": "Crane",
+      "name_ar": "رافعة",
+      "group_type": "rental",
+      "icon": "/categorygroup_icons/defaults/crane.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 17,
+    "fields": {
+      "name": "Demolition",
+      "name_ar": "هدم",
+      "group_type": "service",
+      "icon": "/categorygroup_icons/defaults/demolition.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 18,
+    "fields": {
+      "name": "Dump Truck",
+      "name_ar": "شاحنة قلاب",
+      "group_type": "rental",
+      "icon": "/categorygroup_icons/defaults/dumpTruck.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 19,
+    "fields": {
+      "name": "Excavator",
+      "name_ar": "حفارة",
+      "group_type": "rental",
+      "icon": "/categorygroup_icons/defaults/excavator.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 20,
+    "fields": {
+      "name": "Flat Bed",
+      "name_ar": "شاحنة مسطحة",
+      "group_type": "rental",
+      "icon": "/categorygroup_icons/defaults/flatBed.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 21,
+    "fields": {
+      "name": "Forklift",
+      "name_ar": "رافعة شوكية",
+      "group_type": "rental",
+      "icon": "/categorygroup_icons/defaults/forklift.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 22,
+    "fields": {
+      "name": "Inspection",
+      "name_ar": "فحص",
+      "group_type": "service",
+      "icon": "/categorygroup_icons/defaults/inspection.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 23,
+    "fields": {
+      "name": "Lab Test",
+      "name_ar": "فحص مخبري",
+      "group_type": "service",
+      "icon": "/categorygroup_icons/defaults/labTest.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 24,
+    "fields": {
+      "name": "Landfill",
+      "name_ar": "مكب النفايات",
+      "group_type": "service",
+      "icon": "/categorygroup_icons/defaults/landfill.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 25,
+    "fields": {
+      "name": "Loading",
+      "name_ar": "تحميل",
+      "group_type": "service",
+      "icon": "/categorygroup_icons/defaults/loading.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 26,
+    "fields": {
+      "name": "Unloading",
+      "name_ar": "تفريغ",
+      "group_type": "service",
+      "icon": "/categorygroup_icons/defaults/unloading.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 27,
+    "fields": {
+      "name": "Waste Bin",
+      "name_ar": "حاوية النفايات",
+      "group_type": "rental",
+      "icon": "/categorygroup_icons/defaults/wasteBin.svg"
+    }
+  },
+  {
+    "model": "inventory.categorygroup",
+    "pk": 28,
+    "fields": {
+      "name": "Steel",
+      "name_ar": "صلب",
+      "group_type": "product",
+      "icon": "/categorygroup_icons/defaults/steel.svg"
+    }
+  }
+]

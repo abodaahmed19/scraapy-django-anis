@@ -1,0 +1,55 @@
+[
+  {
+    "model": "inventory.fieldtype",
+    "pk": 1,
+    "fields": {
+      "icon": "/field_type_icons/defaults/Thickness.svg",
+      "name": "Thickness",
+      "name_ar": "السمك"
+    }
+  },
+  {
+    "model": "inventory.fieldtype",
+    "pk": 2,
+    "fields": {
+      "icon": "",
+      "name": "Make",
+      "name_ar": "الصنع",
+      "valid_options": ["Toyota", "Nissan", "Volvo"]
+    }
+  },
+  {
+    "model": "inventory.fieldtype",
+    "pk": 3,
+    "fields": {
+      "icon": "",
+      "name": "Model",
+      "name_ar": "الموديل",
+      "valid_options": {
+        "Toyota": ["Camry", "Corolla", "Land Cruiser"],
+        "Nissan": ["Altima", "Patrol", "X-Trail"],
+        "Volvo": ["XC90", "S60", "V60"]
+      }
+    }
+  },
+  {
+    "model": "inventory.fieldtype",
+    "pk": 4,
+    "fields": {
+      "icon": "",
+      "name": "Model Year",
+      "name_ar": "سنة الصنع",
+      "valid_options": ["2022,2021,2020,2019,2018,2017"]
+    }
+  },
+  {
+    "model": "inventory.fieldtype",
+    "pk": 5,
+    "fields": {
+      "icon": "",
+      "name": "with driver",
+      "name_ar": "مع السائق",
+      "valid_options": true
+    }
+  }
+]

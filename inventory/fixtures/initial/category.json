@@ -1,0 +1,1332 @@
+[
+  {
+    "model": "inventory.category",
+    "pk": 1,
+    "fields": {
+      "category_group": 1,
+      "name": "Aluminum Sheets",
+      "name_ar": "صفائح الألمنيوم",
+      "price_unit": "kg",
+      
+      "field_types": [1]
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 2,
+    "fields": {
+      "category_group": 1,
+      "name": "Aluminum Ingots",
+      "name_ar": "سبائك الألمنيوم",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 3,
+    "fields": {
+      "category_group": 1,
+      "name": "Aluminum Cans",
+      "name_ar": "علب الألمنيوم",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 4,
+    "fields": {
+      "category_group": 1,
+      "name": "Aluminum Extrusions",
+      "name_ar": "مقاطع الألمنيوم",
+      "price_unit": "kg",
+      "field_types": [1]
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 5,
+    "fields": {
+      "category_group": 1,
+      "name": "Aluminum Rims",
+      "name_ar": "جنوط الألمنيوم",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 6,
+    "fields": {
+      "category_group": 1,
+      "name": "Aluminum Profiles",
+      "name_ar": "بروفايلات الألمنيوم",
+      "price_unit": "kg",
+      "field_types": [1]
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 7,
+    "fields": {
+      "category_group": 1,
+      "name": "Aluminum Shavings",
+      "name_ar": "قشر الألمنيوم",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 8,
+    "fields": {
+      "category_group": 1,
+      "name": "Aluminum Siding",
+      "name_ar": "جوانب الألمنيوم",
+      "price_unit": "kg",
+      "field_types": [1]
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 9,
+    "fields": {
+      "category_group": 1,
+      "name": "Cast Aluminum",
+      "name_ar": "الألمنيوم المصبوب",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 10,
+    "fields": {
+      "category_group": 1,
+      "name": "Aluminum Foils",
+      "name_ar": "رقائق الألمنيوم",
+      "price_unit": "kg",
+      "field_types": [1]
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 11,
+    "fields": {
+      "category_group": 2,
+      "name": "Refrigerators",
+      "name_ar": "الثلاجات",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 12,
+    "fields": {
+      "category_group": 2,
+      "name": "Washing Machines",
+      "name_ar": "الغسالات",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 13,
+    "fields": {
+      "category_group": 2,
+      "name": "Dryers",
+      "name_ar": "المجففات",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 14,
+    "fields": {
+      "category_group": 2,
+      "name": "Microwaves",
+      "name_ar": "أفران الميكروويف",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 15,
+    "fields": {
+      "category_group": 2,
+      "name": "Air Conditioners",
+      "name_ar": "مكيفات الهواء",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 16,
+    "fields": {
+      "category_group": 2,
+      "name": "Water Heaters",
+      "name_ar": "سخانات المياه",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 17,
+    "fields": {
+      "category_group": 2,
+      "name": "Stoves & Ovens",
+      "name_ar": "المواقد والأفران",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 18,
+    "fields": {
+      "category_group": 2,
+      "name": "Dishwashers",
+      "name_ar": "غسالات الصحون",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 19,
+    "fields": {
+      "category_group": 2,
+      "name": "Large Industrial Appliances",
+      "name_ar": "الأجهزة الصناعية الكبيرة",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 20,
+    "fields": {
+      "category_group": 3,
+      "name": "Brass Ingots",
+      "name_ar": "سبائك النحاس الأصفر",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 21,
+    "fields": {
+      "category_group": 3,
+      "name": "Brass Plumbing Fixtures",
+      "name_ar": "تجهيزات السباكة النحاسية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 22,
+    "fields": {
+      "category_group": 3,
+      "name": "Brass Shavings",
+      "name_ar": "قشر النحاس الأصفر",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 23,
+    "fields": {
+      "category_group": 3,
+      "name": "Brass Sheets",
+      "name_ar": "صفائح النحاس الأصفر",
+      "price_unit": "kg",
+      "field_types": [1]
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 24,
+    "fields": {
+      "category_group": 3,
+      "name": "Brass Radiators",
+      "name_ar": "مشعات النحاس الأصفر",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 25,
+    "fields": {
+      "category_group": 3,
+      "name": "Brass Scrap from Machining",
+      "name_ar": "خردة النحاس الأصفر من عمليات التشغيل",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 26,
+    "fields": {
+      "category_group": 3,
+      "name": "Brass Valves & Fittings",
+      "name_ar": "صمامات وتجهيزات النحاس الأصفر",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 27,
+    "fields": {
+      "category_group": 3,
+      "name": "Brass Bars",
+      "name_ar": "قضبان النحاس الأصفر",
+      "price_unit": "kg",
+      "field_types": [1]
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 28,
+    "fields": {
+      "category_group": 3,
+      "name": "Brass Gears",
+      "name_ar": "تروس النحاس الأصفر",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 29,
+    "fields": {
+      "category_group": 4,
+      "name": "Complete Computer Systems",
+      "name_ar": "أنظمة الحواسيب الكاملة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 30,
+    "fields": {
+      "category_group": 4,
+      "name": "Circuit Boards",
+      "name_ar": "لوحات الدوائر",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 31,
+    "fields": {
+      "category_group": 4,
+      "name": "Servers & Data Center Equipment",
+      "name_ar": "الخوادم ومعدات مراكز البيانات",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 32,
+    "fields": {
+      "category_group": 4,
+      "name": "Hard Drives",
+      "name_ar": "الأقراص الصلبة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 33,
+    "fields": {
+      "category_group": 4,
+      "name": "Processors",
+      "name_ar": "المعالجات",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 34,
+    "fields": {
+      "category_group": 4,
+      "name": "Power Supply Units",
+      "name_ar": "وحدات تزويد الطاقة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 35,
+    "fields": {
+      "category_group": 4,
+      "name": "Networking Equipment",
+      "name_ar": "معدات الشبكات",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 36,
+    "fields": {
+      "category_group": 4,
+      "name": "Computer Casing",
+      "name_ar": "أغطية الحواسيب",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 37,
+    "fields": {
+      "category_group": 4,
+      "name": "IT Scrap",
+      "name_ar": "خردة تكنولوجيا المعلومات",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 38,
+    "fields": {
+      "category_group": 5,
+      "name": "Mobile Phones",
+      "name_ar": "الهواتف المحمولة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 39,
+    "fields": {
+      "category_group": 5,
+      "name": "Laptop Batteries",
+      "name_ar": "بطاريات الحواسيب المحمولة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 40,
+    "fields": {
+      "category_group": 5,
+      "name": "Tablets",
+      "name_ar": "الأجهزة اللوحية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 41,
+    "fields": {
+      "category_group": 5,
+      "name": "Smartphones",
+      "name_ar": "الهواتف الذكية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 42,
+    "fields": {
+      "category_group": 5,
+      "name": "Power Banks",
+      "name_ar": "بنوك الطاقة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 43,
+    "fields": {
+      "category_group": 5,
+      "name": "Wearable Electronics",
+      "name_ar": "الأجهزة القابلة للارتداء الإلكترونية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 44,
+    "fields": {
+      "category_group": 5,
+      "name": "Chargers & Adapters",
+      "name_ar": "الشواحن والمحولات",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 45,
+    "fields": {
+      "category_group": 5,
+      "name": "Bulk Electronics Parts",
+      "name_ar": "قطع غيار إلكترونية بالجملة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 46,
+    "fields": {
+      "category_group": 6,
+      "name": "PET Plastic",
+      "name_ar": "بلاستيك PET",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 47,
+    "fields": {
+      "category_group": 6,
+      "name": "HDPE Plastic",
+      "name_ar": "بلاستيك HDPE",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 48,
+    "fields": {
+      "category_group": 6,
+      "name": "LDPE Plastic",
+      "name_ar": "بلاستيك LDPE",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 49,
+    "fields": {
+      "category_group": 6,
+      "name": "PVC Pipes & Fittings",
+      "name_ar": "أنابيب ووصلات PVC",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 50,
+    "fields": {
+      "category_group": 6,
+      "name": "Plastic Pallets",
+      "name_ar": "منصات بلاستيكية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 51,
+    "fields": {
+      "category_group": 6,
+      "name": "ABS Plastic Scrap",
+      "name_ar": "خردة بلاستيك ABS",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 52,
+    "fields": {
+      "category_group": 6,
+      "name": "Plastic Granules",
+      "name_ar": "حبيبات البلاستيك",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 53,
+    "fields": {
+      "category_group": 6,
+      "name": "Industrial Plastic Waste",
+      "name_ar": "نفايات البلاستيك الصناعية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 54,
+    "fields": {
+      "category_group": 7,
+      "name": "Bare Bright Copper Wires",
+      "name_ar": "أسلاك النحاس الساطعة العارية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 55,
+    "fields": {
+      "category_group": 7,
+      "name": "Insulated Copper Cables",
+      "name_ar": "الكابلات النحاسية المعزولة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 56,
+    "fields": {
+      "category_group": 7,
+      "name": "Copper Stripping Waste",
+      "name_ar": "نفايات تجريد النحاس",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 57,
+    "fields": {
+      "category_group": 7,
+      "name": "Copper Busbars",
+      "name_ar": "بارات النحاس",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 58,
+    "fields": {
+      "category_group": 7,
+      "name": "Copper Coils",
+      "name_ar": "ملفات النحاس",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 59,
+    "fields": {
+      "category_group": 7,
+      "name": "Power Cables",
+      "name_ar": "كابلات الطاقة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 60,
+    "fields": {
+      "category_group": 7,
+      "name": "Communication Cables",
+      "name_ar": "كابلات الاتصالات",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 61,
+    "fields": {
+      "category_group": 8,
+      "name": "Scrap Cars",
+      "name_ar": "سيارات الخردة",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 62,
+    "fields": {
+      "category_group": 8,
+      "name": "Commercial Vehicle Scrap",
+      "name_ar": "خردة المركبات التجارية",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 63,
+    "fields": {
+      "category_group": 8,
+      "name": "Engines & Transmissions",
+      "name_ar": "المحركات وناقلات الحركة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 64,
+    "fields": {
+      "category_group": 8,
+      "name": "Catalytic Converters",
+      "name_ar": "المحولات الحفازة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 65,
+    "fields": {
+      "category_group": 8,
+      "name": "Scrap Tires",
+      "name_ar": "إطارات الخردة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 66,
+    "fields": {
+      "category_group": 8,
+      "name": "Rims & Wheels",
+      "name_ar": "الجنوط والعجلات",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 67,
+    "fields": {
+      "category_group": 8,
+      "name": "Car Batteries",
+      "name_ar": "بطاريات السيارات",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 68,
+    "fields": {
+      "category_group": 8,
+      "name": "Scrap Motorcycles & Scooters",
+      "name_ar": "خردة الدراجات النارية والسكوترات",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 69,
+    "fields": {
+      "category_group": 8,
+      "name": "Heavy Equipment",
+      "name_ar": "المعدات الثقيلة",
+      "price_unit": "unit",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 70,
+    "fields": {
+      "category_group": 9,
+      "name": "Cardboard",
+      "name_ar": "الكرتون",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 71,
+    "fields": {
+      "category_group": 9,
+      "name": "Office Paper Waste",
+      "name_ar": "نفايات الورق المكتبي",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 72,
+    "fields": {
+      "category_group": 9,
+      "name": "Newspaper",
+      "name_ar": "الجرائد",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 73,
+    "fields": {
+      "category_group": 9,
+      "name": "Mixed Paper Waste",
+      "name_ar": "نفايات الورق المختلطة",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 74,
+    "fields": {
+      "category_group": 9,
+      "name": "Books & Magazines",
+      "name_ar": "الكتب والمجلات",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 75,
+    "fields": {
+      "category_group": 9,
+      "name": "Paper Pulp Waste",
+      "name_ar": "نفايات لب الورق",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 76,
+    "fields": {
+      "category_group": 9,
+      "name": "Packaging Paper",
+      "name_ar": "ورق التغليف",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 77,
+    "fields": {
+      "category_group": 10,
+      "name": "Cast Iron",
+      "name_ar": "الحديد الزهر",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 78,
+    "fields": {
+      "category_group": 10,
+      "name": "Light Iron",
+      "name_ar": "الحديد الخفيف",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 79,
+    "fields": {
+      "category_group": 10,
+      "name": "Structural Steel",
+      "name_ar": "الفولاذ الإنشائي",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 80,
+    "fields": {
+      "category_group": 10,
+      "name": "Heavy Melting Steel",
+      "name_ar": "صلب التذويب الثقيل",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 81,
+    "fields": {
+      "category_group": 10,
+      "name": "Rebar",
+      "name_ar": "حديد التسليح",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 82,
+    "fields": {
+      "category_group": 10,
+      "name": "Steel Turnings",
+      "name_ar": "خراطة الصلب",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 83,
+    "fields": {
+      "category_group": 10,
+      "name": "Stainless Steel Scrap",
+      "name_ar": "خردة الفولاذ المقاوم للصدأ",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 84,
+    "fields": {
+      "category_group": 10,
+      "name": "Steel Drums & Barrels",
+      "name_ar": "البراميل والبراميل الفولاذية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 85,
+    "fields": {
+      "category_group": 10,
+      "name": "Steel Rail Scrap",
+      "name_ar": "خردة سكك الحديد الفولاذية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 86,
+    "fields": {
+      "category_group": 10,
+      "name": "Galvanized Steel",
+      "name_ar": "الفولاذ المجلفن",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 87,
+    "fields": {
+      "category_group": 11,
+      "name": "Wood Pallets",
+      "name_ar": "منصات الخشب",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 88,
+    "fields": {
+      "category_group": 11,
+      "name": "Demolition Wood",
+      "name_ar": "خشب الهدم",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 89,
+    "fields": {
+      "category_group": 11,
+      "name": "Plywood Sheets",
+      "name_ar": "صفائح الخشب الرقائقي",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 90,
+    "fields": {
+      "category_group": 11,
+      "name": "Sawdust",
+      "name_ar": "نشارة الخشب",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 91,
+    "fields": {
+      "category_group": 11,
+      "name": "Timber Offcuts",
+      "name_ar": "بقايا الخشب",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 92,
+    "fields": {
+      "category_group": 11,
+      "name": "Furniture Scrap",
+      "name_ar": "خردة الأثاث",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 93,
+    "fields": {
+      "category_group": 11,
+      "name": "Wooden Crates & Boxes",
+      "name_ar": "صناديق وحاويات خشبية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 94,
+    "fields": {
+      "category_group": 11,
+      "name": "Wood Chips",
+      "name_ar": "رقائق الخشب",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 95,
+    "fields": {
+      "category_group": 12,
+      "name": "Window Glass",
+      "name_ar": "زجاج النوافذ",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 96,
+    "fields": {
+      "category_group": 12,
+      "name": "Car Windshields",
+      "name_ar": "الزجاج الأمامي للسيارات",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 97,
+    "fields": {
+      "category_group": 12,
+      "name": "Glass Bottles",
+      "name_ar": "زجاجات الزجاج",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 98,
+    "fields": {
+      "category_group": 12,
+      "name": "Tempered Glass",
+      "name_ar": "الزجاج المقوى",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 99,
+    "fields": {
+      "category_group": 12,
+      "name": "Industrial Glass Sheets",
+      "name_ar": "صفائح الزجاج الصناعي",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 100,
+    "fields": {
+      "category_group": 12,
+      "name": "Fiberglass",
+      "name_ar": "الألياف الزجاجية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 101,
+    "fields": {
+      "category_group": 12,
+      "name": "Glass Jars",
+      "name_ar": "الجرار الزجاجية",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 102,
+    "fields": {
+      "category_group": 12,
+      "name": "Architectural Glass",
+      "name_ar": "الزجاج المعماري",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 103,
+    "fields": {
+      "category_group": 13,
+      "name": "Dump Trucks",
+      "name_ar": "شاحنات التفريغ",
+      "price_unit": "day",
+      "field_types": [5],
+      "sub_item_type": "fleet"
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 104,
+    "fields": {
+      "category_group": 13,
+      "name": "Flatbed Trucks",
+      "name_ar": "شاحنات مسطحة",
+      "price_unit": "day",
+      "field_types": [5],
+      
+      "sub_item_type": "fleet"
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 105,
+    "fields": {
+      "category_group": 14,
+      "name": "Bulldozer Rental",
+      "name_ar": "إيجار جرافة",
+      "price_unit": "day",
+     
+      "field_types": [5],
+      "sub_item_type": "fleet"
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 106,
+    "fields": {
+      "category_group": 15,
+      "name": "Container Rental",
+      "name_ar": "إيجار حاوية",
+      "price_unit": "day",
+      
+      "field_types": [5],
+      "sub_item_type": "fleet"
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 107,
+    "fields": {
+      "category_group": 16,
+      "name": "Crane Rental",
+      "name_ar": "إيجار رافعة",
+      "price_unit": "day",
+      
+      "field_types": [5],
+      "sub_item_type": "fleet"
+
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 108,
+    "fields": {
+      "category_group": 17,
+      "name": "Demolition Service",
+      "name_ar": "خدمة الهدم",
+      "price_unit": "service",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 109,
+    "fields": {
+      "category_group": 18,
+      "name": "Dump Truck Rental",
+      "name_ar": "إيجار شاحنة قلاب",
+      "price_unit": "day",
+      
+      "field_types": [5],
+      "sub_item_type": "fleet"
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 110,
+    "fields": {
+      "category_group": 19,
+      "name": "Excavator Rental",
+      "name_ar": "إيجار حفارة",
+      "price_unit": "day",
+      
+      "field_types": [5],
+      "sub_item_type": "fleet"
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 111,
+    "fields": {
+      "category_group": 20,
+      "name": "Flat Bed Rental",
+      "name_ar": "إيجار شاحنة مسطحة",
+      "price_unit": "day",
+      
+      "field_types": [5],
+      "sub_item_type": "fleet"
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 112,
+    "fields": {
+      "category_group": 21,
+      "name": "Forklift Rental",
+      "name_ar": "إيجار رافعة شوكية",
+      "price_unit": "day",
+      
+      "field_types": [5],
+      "sub_item_type": "fleet"
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 113,
+    "fields": {
+      "category_group": 22,
+      "name": "Inspection Service",
+      "name_ar": "خدمة الفحص",
+      "price_unit": "service",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 114,
+    "fields": {
+      "category_group": 23,
+      "name": "Lab Testing Service",
+      "name_ar": "خدمة الفحص المخبري",
+      "price_unit": "service",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 115,
+    "fields": {
+      "category_group": 24,
+      "name": "Landfill Service",
+      "name_ar": "خدمة مكب النفايات",
+      "price_unit": "service",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 116,
+    "fields": {
+      "category_group": 25,
+      "name": "Loading Service",
+      "name_ar": "خدمة التحميل",
+      "price_unit": "service",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 117,
+    "fields": {
+      "category_group": 26,
+      "name": "Unloading Service",
+      "name_ar": "خدمة التفريغ",
+      "price_unit": "service",
+      "field_types": []
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 118,
+    "fields": {
+      "category_group": 27,
+      "name": "Waste Bin Rental",
+      "name_ar": "إيجار حاوية النفايات",
+      "price_unit": "day",
+      
+      "field_types": [5],
+      "sub_item_type": "fleet"
+    }
+  },
+  {
+    "model": "inventory.category",
+    "pk": 119,
+    "fields": {
+      "category_group": 28,
+      "name": "Steel Products",
+      "name_ar": "منتجات الصلب",
+      "price_unit": "kg",
+      "field_types": []
+    }
+  }
+]

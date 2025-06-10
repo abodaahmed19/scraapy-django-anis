@@ -1,0 +1,112 @@
+[
+    {
+        "model": "inventory.vehiclespecs",
+        "pk": 1,
+        "fields": {
+            "make": "Toyota",
+            "model": "Corolla",
+            "model_year": "2023",
+            "categories": 103,
+            "status": "approved"
+        }
+    },
+    {
+        "model": "inventory.vehiclespecs",
+        "pk": 2,
+        "fields": {
+            "make": "Ford",
+            "model": "Mustang",
+            "model_year": "2022",
+            "categories": 104,
+            "status": "approved"
+        }
+    },
+    {
+        "model": "inventory.vehiclespecs",
+        "pk": 3,
+        "fields": {
+            "make": "BMW",
+            "model": "X5",
+            "model_year": "2021",
+            "categories": 118,
+            "status": "approved"
+        }
+    },
+    {
+        "model": "inventory.vehiclespecs",
+        "pk": 4,
+        "fields": {
+            "make": "Honda",
+            "model": "Accord",
+            "model_year": "2020",
+            "categories": 112,
+            "status": "approved"
+        }
+    },
+    {
+        "model": "inventory.vehiclespecs",
+        "pk": 5,
+        "fields": {
+            "make": "Mercedes-Benz",
+            "model": "C-Class",
+            "model_year": "2023",
+            "categories": 111,
+            "status": "approved"
+        }
+    },
+    {
+        "model": "inventory.vehiclespecs",
+        "pk": 6,
+        "fields": {
+            "make": "Audi",
+            "model": "Q7",
+            "model_year": "2022",
+            "categories": 110,
+            "status": "approved"
+        }
+    },
+    {
+        "model": "inventory.vehiclespecs",
+        "pk": 7,
+        "fields": {
+            "make": "Tesla",
+            "model": "Model S",
+            "model_year": "2024",
+            "categories": 109,
+            "status": "approved"
+        }
+    },
+    {
+        "model": "inventory.vehiclespecs",
+        "pk": 8,
+        "fields": {
+            "make": "Chevrolet",
+            "model": "Camaro",
+            "model_year": "2021",
+            "categories": 106,
+            "status": "approved"
+        }
+    },
+    {
+        "model": "inventory.vehiclespecs",
+        "pk": 9,
+        "fields": {
+            "make": "Kia",
+            "model": "Sorento",
+            "model_year": "2023",
+            "categories": 105,
+            "status": "approved"
+        }
+    },
+    {
+        "model": "inventory.vehiclespecs",
+        "pk": 10,
+        "fields": {
+            "make": "Hyundai",
+            "model": "Elantra",
+            "model_year": "2022",
+            "categories": 107,
+            "status": "approved"
+        }
+    }
+]

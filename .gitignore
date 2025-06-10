@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+*.log
+coverage.xml
+.coverage
+
+venv
+.venv
+media
+staticfiles
+.projectmeta
+
+!media/**/defaults/
+protected_media/
